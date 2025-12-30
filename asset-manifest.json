@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/surajbarate/landing-page.git/static/css/main.f6af590c.css",
-    "main.js": "/surajbarate/landing-page.git/static/js/main.df838051.js",
-    "static/js/453.c2ab3f86.chunk.js": "/surajbarate/landing-page.git/static/js/453.c2ab3f86.chunk.js",
-    "static/media/course2.png": "/surajbarate/landing-page.git/static/media/course2.ff6d6b83cbd113827719.png",
-    "static/media/training.jpg": "/surajbarate/landing-page.git/static/media/training.70f8d79f1b4fe61b7a5a.jpg",
-    "static/media/student.jpg": "/surajbarate/landing-page.git/static/media/student.6cac1808ece87a238860.jpg",
-    "static/media/cs-logo.png": "/surajbarate/landing-page.git/static/media/cs-logo.003cf4be1d96d00257e7.png",
-    "index.html": "/surajbarate/landing-page.git/index.html",
-    "main.f6af590c.css.map": "/surajbarate/landing-page.git/static/css/main.f6af590c.css.map",
-    "main.df838051.js.map": "/surajbarate/landing-page.git/static/js/main.df838051.js.map",
-    "453.c2ab3f86.chunk.js.map": "/surajbarate/landing-page.git/static/js/453.c2ab3f86.chunk.js.map"
+    "main.css": "/surajbarate/landing-page/static/css/main.f6af590c.css",
+    "main.js": "/surajbarate/landing-page/static/js/main.669c20a3.js",
+    "static/js/453.c2ab3f86.chunk.js": "/surajbarate/landing-page/static/js/453.c2ab3f86.chunk.js",
+    "static/media/course2.png": "/surajbarate/landing-page/static/media/course2.ff6d6b83cbd113827719.png",
+    "static/media/training.jpg": "/surajbarate/landing-page/static/media/training.70f8d79f1b4fe61b7a5a.jpg",
+    "static/media/student.jpg": "/surajbarate/landing-page/static/media/student.6cac1808ece87a238860.jpg",
+    "static/media/cs-logo.png": "/surajbarate/landing-page/static/media/cs-logo.003cf4be1d96d00257e7.png",
+    "index.html": "/surajbarate/landing-page/index.html",
+    "main.f6af590c.css.map": "/surajbarate/landing-page/static/css/main.f6af590c.css.map",
+    "main.669c20a3.js.map": "/surajbarate/landing-page/static/js/main.669c20a3.js.map",
+    "453.c2ab3f86.chunk.js.map": "/surajbarate/landing-page/static/js/453.c2ab3f86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6af590c.css",
-    "static/js/main.df838051.js"
+    "static/js/main.669c20a3.js"
   ]
 }
